@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { 
+      "source": "/PreCadastro", 
+      "destination": "https://script.google.com/macros/s/AKfycbwuehvR3wuYERgzxmLBghuHcUPwdid5y1mehOByQfHVsDc1uUqVZlt832ElAsRgfxuADQ/exec", 
+      "permanent": true 
+    },
+    { 
+      "source": "/Painel-Gerencia", 
+      "destination": "https://script.google.com/macros/s/AKfycbxm8CHa-vCmO7JcXOSmrWGbsIIDKjfsEJh_xbGSKNrmqjTjZ2RCi-D-hs1fdmEJfrQK/exec", 
+      "permanent": true 
+    }
+  ]
+}
